@@ -8,7 +8,7 @@
   "web": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./develop/server.js"
+    "start": "node /Develop/server.js"
   },
   "author": "",
   "license": "ISC",
