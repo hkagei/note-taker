@@ -1,8 +1,8 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const htmlRoutes = require('./Routes/htmlRoutes');
-const apiRoutes = require('./Routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes');
 
 
 const app = express();
